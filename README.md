@@ -1,16 +1,17 @@
 # Entropic analysis of solid-state electrolytes (SSEs)
 **Currently, this repository is under construction.**
 
-This repository (EA-SSEs) implements the path entropy analysis of SSEs, which quantify the diffusion ability in view of the diversity of the pathways.
+This repository (EA-SSEs) implements the path entropy analysis of SSEs, which quantifies the diffusion ability in view of the diversity of the pathways.
 It has several main functionalities:
 1. Markov state model construction, and analysis of kinetics of lithium diffusion.
-2. Analysis of entropy-driven strageties, including both path entropy and configurational entropy
-3. Collective behavior of lithium - "softness" of lithium
+2. Analysis of entropy-driven strageties, including both path entropy and configurational entropy.
+3. Collective behavior of lithium - "softness" of lithium.
 
 ## Table of Contents
 - [Prerequisties](#pre)
 - [Data](#data)
 - [Tutorial](#tut)
+- [Citation](#cite)
 
 <a name="pre"> </a>
 ## Prerequisties
@@ -23,3 +24,7 @@ All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since 
 <a name="tut"> </a>
 ## Tutorial
 You can find some jupyter-notebooks of EA-SSEs useful on `tut/`.
+
+<a name="cite"> </a>
+## Citation
+Feel free to use this repository; we'd appreciate a citation of our related work.
