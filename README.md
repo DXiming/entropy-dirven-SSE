@@ -1,4 +1,4 @@
-# Entropic analysis of solid-state electrolytes (SSEs)
+# Entropic analysis of solid-state electrolytes (EA-SSEs)
 **Currently, this repository is under construction.**
 
 This repository (EA-SSEs) implements the path entropy analysis of SSEs, which quantifies the diffusion ability in view of the diversity of the pathways.
