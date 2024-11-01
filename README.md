@@ -1,5 +1,5 @@
-# Entropic analysis of solid-state electrolytes (EA-SSEs)
-**Currently, this repository is under construction.**
+# Entropy analysis of solid-state electrolytes (EA-SSEs)
+**Some part of this repository is still under construction.**
 
 This repository (EA-SSEs) implements the path entropy analysis of SSEs, which quantifies the diffusion ability in view of the diversity of the pathways.
 It has several main functionalities:
@@ -11,15 +11,15 @@ It has several main functionalities:
 - [Prerequisties](#pre)
 - [Data](#data)
 - [Tutorial](#tut)
-- [Citation](#cite)
+- [Citation](#cite);
 
 <a name="pre"> </a>
 ## Prerequisties
-To run the EA-SSEs, the python packages (env.yml) are needed. The recommended way to install those prerequisties is via [conda](https://conda.io/docs/index.html).
+To run the EA-SSEs, some python packages (env.yml) are needed. The recommended way to install those prerequisties is via [conda](https://conda.io/docs/index.html).
 
 <a name="data"> </a>
 ## Data
-All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since the original `MD` trajectories have large size, the encoded traj in `hdf5` format are loaded.
+All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since the original `MD` trajectories have large size, the example traj in `h5` format are loaded.
 
 <a name="tut"> </a>
 ## Tutorial
