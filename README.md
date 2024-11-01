@@ -11,7 +11,7 @@ It has several main functionalities:
 - [Prerequisties](#pre)
 - [Data](#data)
 - [Tutorial](#tut)
-- [Citation](#cite);
+- [Citation](#cite)
 
 <a name="pre"> </a>
 ## Prerequisties
