@@ -18,7 +18,7 @@ To run the EA-SSEs, some python packages (env.txt) are needed. The recommended w
 
 <a name="data"> </a>
 ## Data
-All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since the original `MD` trajectories have large size (~several GB), the trajs are not loaded here.
+All the data needed to run the EA-SSEs will be directly avaliable on `data/`. Since the original `MD` trajectories have large size (~several GB), the trajs are not loaded here.
 
 <a name="cite"> </a>
 ## Citation
