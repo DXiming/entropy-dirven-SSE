@@ -10,20 +10,15 @@ It has several main functionalities:
 ## Table of Contents
 - [Prerequisties](#pre)
 - [Data](#data)
-- [Tutorial](#tut)
 - [Citation](#cite)
 
 <a name="pre"> </a>
 ## Prerequisties
-To run the EA-SSEs, some python packages (env.yml) are needed. The recommended way to install those prerequisties is via [conda](https://conda.io/docs/index.html).
+To run the EA-SSEs, some python packages (env.txt) are needed. The recommended way to install those prerequisties is via [conda](https://conda.io/docs/index.html).
 
 <a name="data"> </a>
 ## Data
-All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since the original `MD` trajectories have large size, the example traj in `h5` format are loaded.
-
-<a name="tut"> </a>
-## Tutorial
-You can find some jupyter-notebooks of EA-SSEs useful on `tut/`.
+All the data needed to run the EA-SSEs are directly avaliable on `data/`. Since the original `MD` trajectories have large size (~several GB), the trajs are not loaded here.
 
 <a name="cite"> </a>
 ## Citation
